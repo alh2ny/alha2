@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Alhuqni</string>
+    <string name="enter_your_email">ENTER YOUR EMAIL</string>
+    <string name="enter_your_password">ENTER YOUR PASSWORD</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="national_id">National ID</string>
+    <string name="full_name">Full Name</string>
+    <string name="repassword">Repassword</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="home">HOME</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="alhuqni_app">Alhuqni App</string>
+    <string name="title_activity_home_app">HomeApp</string>
+    <string name="title_activity_home_application">HomeApplication</string>
+    <string name="title_activity_top">Top</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="title_activity_welcome_app">Home</string>
+    <string name="title_activity_hii">hii</string>
+</resources>
